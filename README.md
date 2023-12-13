@@ -1,6 +1,6 @@
 ### HELLO 👋, WELCOME! TO MY GITHUB SPACE.
 
-🔭 I'm a skilled front-end web developer well-versed in crafting seamless user experiences with a strong command of React, CSS, JavaScript, and Next.js. My expertise lies in translating design concepts into responsive and dynamic interfaces, ensuring a visually appealing and user-friendly digital presence.👋
+🔭 I'm a skilled front-end web developer well-versed in crafting seamless user experiences with a strong command of React, CSS, JavaScript, Typescript and Next.js. My expertise lies in translating design concepts into responsive and dynamic interfaces, ensuring a visually appealing and user-friendly digital presence.👋
 
 👯 I'm looking to collaborate on innovative projects that push the boundaries of web development.
 
