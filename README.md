@@ -1,8 +1,8 @@
 ### HELLO 👋, WELCOME! TO MY GITHUB SPACE.
 
-### 🔭 I'm a skilled front-end web developer well-versed in crafting seamless user experiences with a strong command of React, CSS, JavaScript, and Next.js. My expertise lies in translating design concepts into responsive and dynamic interfaces, ensuring a visually appealing and user-friendly digital presence. With a passion for clean code and a knack for problem-solving, I bring creativity and technical proficiency to deliver engaging and efficient web solutions.👋
+🔭 I'm a skilled front-end web developer well-versed in crafting seamless user experiences with a strong command of React, CSS, JavaScript, and Next.js. My expertise lies in translating design concepts into responsive and dynamic interfaces, ensuring a visually appealing and user-friendly digital presence.👋
 
-### 👯 I'm looking to collaborate on innovative projects that push the boundaries of web development.
+👯 I'm looking to collaborate on innovative projects that push the boundaries of web development.
 
 <!--
 **kaska-jr/kaska-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
